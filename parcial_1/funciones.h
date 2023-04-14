@@ -9,4 +9,6 @@ using namespace std;
 
 //void guardar_datos(char** nombres, int* creditos, int* horas, int n);
 char* ingresar_materias();
+char* trabajo_personal(char *);
+char* sugerir_trabajo(char *);
 
