@@ -4,6 +4,9 @@ int main()
 {
     char* contenido=leer();
 
+    informacion(contenido);
+
+
     delete[]contenido;
 
 

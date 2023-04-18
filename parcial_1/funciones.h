@@ -9,4 +9,4 @@ using namespace std;
 #endif // FUNCIONES_H
 
 char* leer();
-char* matriz(char*);
+char* informacion(char*p);
