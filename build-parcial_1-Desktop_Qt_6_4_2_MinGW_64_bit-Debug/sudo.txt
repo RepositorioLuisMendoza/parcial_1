@@ -1,0 +1,74 @@
+2567101,Descubriendo la fisica,4,3.
+2559131,Calculo Diferencial,4,3.
+2559101,Algebra y trigonometria,4,3. 
+2559121,Geometria vectorial y analitica,4,3.
+2570101,Informatica I,7,4,
+2540101,Ingles I,4,1.
+2565101,Vivamos la universidad,2,1.
+
+2567201,Fisica mecanica,4,3.
+2559231,Calculo integral,4,3.
+2559221,Algebra lineal,4,3.
+2569231,Introduccion a la ing telecomunicaciones,2,1.
+2570201,Informatica II,7,4.
+2540201,Ingles II,4,1.
+2564101,lectoescritura,4,3.
+
+2567301,Fisica de ondas,4,3;
+2559331,Calculo vectorial,4,3.
+2570301,Ecuaciones diferenciales,4,3.
+2570306,Circuitos electricos I,7,4.
+2569331,Probabilidad y estadistica,4,3.
+2540301,Ingles III,4,1.
+2566351,Formacion ciudadana y constitucional,2,1.
+
+2567311,Fisica de campos,4,3.
+2570401,Matematicas especiales,4,3.
+2570416,Metodos numericos,4,3.
+2570406,Circuitos electricos II,7,3.
+2569650,Referenciacion Geografica,3,1.
+2540401,Ingles IV,4,1.
+
+
+2567502,Laboratorio integrada de fisica, 6,2.
+2570516,Electromagnetismo,4,3.
+2570501,Fisica del estado solido,4,3.
+2569531,Fundamentos de electronica analoga,7,4.
+2569536,Fundamentos de la electronica digital,7,4.
+2540501,Ingles V,4,1.
+
+2569646,Materiales en ingenieria,7,4.
+2569631,Tratamiento de senales I,7,4.
+2569632,Teoria de la informacion,4,3.
+2569641,Teoria de teletrafico,4,3.
+2569636,Redes de computadora I, 4,3.
+2540601,Ingles VI,4,1.
+
+2570711,Proceso digital de senales,7,4.
+2569731,Tratamiento de senales II,7,4.
+2569751,Trans por Med Confinados,4,3.
+2570907,Tecnicas de optimizacion,4,3.
+2569736,Redes de computadora II,6,3.
+
+2569830,Tratamiento de señales III,7,4.
+2569855,Proyecto integrador,3,1.
+2569850,Radio transmision,6,4.
+2569841,Gestion de telecomunicaciones I,4,3.
+
+2569041,Politica y regulacion en teleco,4,2.
+2569951,Comunicacion Inalambricas,4,3.
+2569941,Gestion de telecomunicaciones II,4,3.
+
+2569099,Semillero ingenieria telecomunicaciones,2,1.
+
+2570013,Circuitos de radio frecuencia,7,3.
+2570017,Fundamentos de radar,4,3.
+2569012,Servicios telematicos,6,3.
+2569054,Fund de opti y fotonica,4,3.
+2570016,Programa de dispositivos moviles,6,4.
+2570018,Desarrollo de aplicaciones web,4,3.
+2570015,Proc digital de imagenes,6,3.
+
+
+
+
