@@ -9,4 +9,5 @@ using namespace std;
 #endif // FUNCIONES_H
 
 char* leer();
-char* informacion(char*p);
+char* informacion(char*p,char*buscando);
+bool es_igual(const char*c1, const char*c2);
