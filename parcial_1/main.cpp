@@ -19,6 +19,12 @@ int main()
         cout << "Linea encontrada: " << resultado << endl;
     }
     else{cout<<"la materia no existe"<<endl;}
+    int q=convertir_int(codigo);
+    int w=convertir_int(horas);
+    int e=convertir_int(creditos);
+    cout<<q<<endl;
+    cout<<w<<endl;
+    cout<<e<<endl;
 
 
 
