@@ -8,16 +8,9 @@ using namespace std;
 
 #endif // FUNCIONES_H
 
+void leer_buscar_materia(char codigo[], char materia[], char horas[], char creditos[], char resultado[]);
+int convertir_int(char codigo[]);
 int tam_archivo();
 char* leer();
-int *buscar_materia(char *);
-char* informacion(char* cadena);
-
-
-
-void pedir_datos(int nfilas , int ncolumnas );
-void Ingresar_horario(int **);
-
-void mostrar_matriz (int **puntero_matriz, int nfilas, int ncolumnas );
-
+void matriz ();
 
