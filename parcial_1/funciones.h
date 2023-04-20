@@ -11,3 +11,4 @@ using namespace std;
 
 void leer_buscar_materia(char codigo[], char materia[], char horas[], char creditos[], char resultado[]);
 int convertir_int(char[]);
+void matriz ();
