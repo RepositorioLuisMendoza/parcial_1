@@ -2,7 +2,10 @@
 
 int main()
 {
-
+    int numero_materias;
+    cout<<"ingrese la cantidad de materias que cursa"<<endl;
+    cin>>numero_materias;
+    for (int i=0;i<numero_materias;i++){
     char codigo[8];
     cout << "Ingrese el codigo de la materia a buscar: ";
     cin >> codigo;
@@ -22,10 +25,14 @@ int main()
     int q=convertir_int(codigo);
     int w=convertir_int(horas);
     int e=convertir_int(creditos);
+    int r=e*3-w;
     cout<<q<<endl;
     cout<<w<<endl;
     cout<<e<<endl;
-
+    if (r<=0){cout<<"segun el pensum esta materia no necesita de horas extras" <<endl;r=0;}
+    cout<<"numero de horas personales "<<r<<endl;
+    }
+    matriz();
 
 
 return 0;
